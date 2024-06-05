@@ -35,8 +35,8 @@ WPForms Lite: Plugin de formularios que permite crear y gestionar formularios de
 Proceso de Migración del Sitio Web:
 El sitio web fue exportado desde el entorno de desarrollo utilizando el plugin All in One WP Migration. Posteriormente, el archivo exportado fue importado en el servidor de alojamiento web utilizando el mismo plugin. Este proceso aseguró una migración suave y sin problemas del sitio web de un entorno a otro.
 
-Uso de Protocolo HTTP para la Seguridad:
-Es importante destacar que el sitio web actualmente utiliza el protocolo HTTP en lugar de HTTPS. Esto puede afectar la seguridad de la información transmitida entre el sitio web y los usuarios, ya que HTTPS proporciona una capa adicional de cifrado para proteger los datos. Se recomienda encarecidamente configurar el sitio web para utilizar HTTPS para garantizar la seguridad de los datos del usuario.
+Uso de Protocolo HTTPS para la Seguridad:
+Es importante destacar que el sitio web utiliza el protocolo HTTPS para garantizar una conexión segura entre el servidor y el navegador del usuario. Esto proporciona una capa adicional de cifrado para proteger los datos transmitidos, como la información de inicio de sesión y los datos de pago.
 
 Contribuciones Adicionales:
 Si deseas contribuir al desarrollo o mejorar la funcionalidad del sitio web, te animamos a realizar un fork de este repositorio, realizar los cambios necesarios y enviar un pull request con tus modificaciones.
