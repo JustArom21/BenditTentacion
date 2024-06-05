@@ -1,6 +1,5 @@
-# BenditTentacion
-My first project with wordpress
-Sitio Web: https://gefxvmin.lucusvirtual.es/
+# BenditaTentacion
+Mi primer proyecto con WordPress: https://gefxvmin.lucusvirtual.es/
 Este repositorio contiene el código fuente y la documentación para el desarrollo del sitio web https://gefxvmin.lucusvirtual.es/. A continuación se detallan los aspectos importantes del proyecto, incluyendo ajustes realizados, plugins utilizados y otros detalles relevantes.
 
 Ajustes Realizados en el Sitio Web:
